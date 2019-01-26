@@ -10,9 +10,9 @@
 Founders and Coders is a 16 week coding BootCamp. Every week (for eight the first eight weeks) students are asked to complete numberous workshops/challenges around a specific web-development subject.
 These workshop/challenges are created to stretch and challenge students knowledge which means they are often started but not completed.
 
-WhoTube is a web app for those who want to keep their favourite youtubers' latest videos and tweets in one page, always under control!
+WhoTube is a mobile-first web app for those who want to keep their favourite youtubers' latest videos and tweets in one place, always under control!
 
-## User instructions :books:
+## Setup instructions :books:
 
 Geeky version:
 
@@ -54,4 +54,11 @@ Should the word that the user input lead to partial or any result at all (e.g. y
 
 * Starting from the same inpout search, unless the youtuber had a different name for their twitter account (see above), the latest 10 tweets will be displayed alongside the latest videos.
 * We added date and time to the tweets in order to make it easier for user to tell most recent tweets from the least.
+
+## Usage instructions
+
+1. Type your favourite youtuber in the searchbar;
+2. If the name you typed is successfully found on both YouTube and Twitter, you will see a page displaying the latest 4 videos and 10 tweets of the youtuber you search for.
+3. Should the person you typed have a differently spelled twitter name (it happens often, as twitter uses one word usernames) you will be given the chance of searching for both YouTube and Twitter names in two separate boxes.
+4. Enjoy WhoTube!
 
