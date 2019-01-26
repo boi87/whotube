@@ -6,7 +6,11 @@
 ![](https://i.imgur.com/95LeuJ1.png)
 # Mike, Susan, Alex, Lucy 
 
-A web app for those who want to keep their favourite youtubers' latest videos and tweets in one page, always under control!
+### About 📝
+Founders and Coders is a 16 week coding BootCamp. Every week (for eight the first eight weeks) students are asked to complete numberous workshops/challenges around a specific web-development subject.
+These workshop/challenges are created to stretch and challenge students knowledge which means they are often started but not completed.
+
+WhoTube is a web app for those who want to keep their favourite youtubers' latest videos and tweets in one page, always under control!
 
 ## User instructions :books:
 
